@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\models\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|solutionrelative:models\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1102E3C-BD33-455F-B47A-BCB026058329}|Task1_Demidov.csproj|c:\\java_projects\\it_task1_demidov\\task1_demidov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,14 +46,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "App.axaml",
               "DocumentMoniker": "C:\\Java_Projects\\IT_Task1_Demidov\\Task1_Demidov\\App.axaml",
               "RelativeDocumentMoniker": "App.axaml",
               "ToolTip": "C:\\Java_Projects\\IT_Task1_Demidov\\Task1_Demidov\\App.axaml",
               "RelativeToolTip": "App.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-15T16:46:53.229Z"
+              "WhenOpened": "2025-03-15T16:46:53.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ViewLocator.cs",
               "DocumentMoniker": "C:\\Java_Projects\\IT_Task1_Demidov\\Task1_Demidov\\ViewLocator.cs",
               "RelativeDocumentMoniker": "ViewLocator.cs",
@@ -81,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Java_Projects\\IT_Task1_Demidov\\Task1_Demidov\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
@@ -93,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Java_Projects\\IT_Task1_Demidov\\Task1_Demidov\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
@@ -105,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ComplexNumber.cs",
               "DocumentMoniker": "C:\\Java_Projects\\IT_Task1_Demidov\\Task1_Demidov\\Models\\ComplexNumber.cs",
               "RelativeDocumentMoniker": "Models\\ComplexNumber.cs",
               "ToolTip": "C:\\Java_Projects\\IT_Task1_Demidov\\Task1_Demidov\\Models\\ComplexNumber.cs",
               "RelativeToolTip": "Models\\ComplexNumber.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwEYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T16:40:55.783Z",
               "EditorCaption": ""
@@ -130,15 +131,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Java_Projects\\IT_Task1_Demidov\\Task1_Demidov\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Java_Projects\\IT_Task1_Demidov\\Task1_Demidov\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwAcAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T16:40:45.063Z"
+              "WhenOpened": "2025-03-15T16:40:45.063Z",
+              "EditorCaption": ""
             }
           ]
         }
