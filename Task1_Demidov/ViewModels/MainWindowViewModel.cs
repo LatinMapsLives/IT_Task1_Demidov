@@ -1,7 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using System;
-using Task1_Demidov.Models;
+using Task1_Demidov_Core.Models;
 
 namespace Task1_Demidov.ViewModels
 {

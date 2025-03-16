@@ -135,3 +135,5 @@ C:\Java_Projects\IT_Task1_Demidov\Task1_Demidov\obj\Debug\net8.0\refint\Avalonia
 C:\Java_Projects\IT_Task1_Demidov\Task1_Demidov\obj\Debug\net8.0\Task1_De.0F7A3888.Up2Date
 C:\Java_Projects\IT_Task1_Demidov\Task1_Demidov\obj\Debug\net8.0\Task1_Demidov.genruntimeconfig.cache
 C:\Java_Projects\IT_Task1_Demidov\Task1_Demidov\obj\Debug\net8.0\ref\Task1_Demidov.dll
+C:\Java_Projects\IT_Task1_Demidov\Task1_Demidov\bin\Debug\net8.0\Task1_Demidov_Core.dll
+C:\Java_Projects\IT_Task1_Demidov\Task1_Demidov\bin\Debug\net8.0\Task1_Demidov_Core.pdb

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task1_Demidov.Models
+namespace Task1_Demidov_Core.Models
 {
-    class ComplexNumber
+    public class ComplexNumber
     {
         public double Real { get; }
         public double Imaginary { get; }

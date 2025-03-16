@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task1_Demidov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b96f5624b9ff2928f86d40840b9eff2c4e21532")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc33d92a8ef05889d233c1757eb0223cbaa8cd8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task1_Demidov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task1_Demidov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

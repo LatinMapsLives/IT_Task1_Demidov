@@ -24,4 +24,12 @@
     </PackageReference>
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Task1_Demidov_Core\Task1_Demidov_Core.csproj" />
+  </ItemGroup>
 </Project>
